@@ -1,0 +1,9 @@
+{
+    "code": "String",
+    "name": "String",
+    "rate": "Number",
+    "bid": "Number",
+    "ask": "Number",
+    "stored": "Date",
+    "lastRefreshed": "Date"
+}

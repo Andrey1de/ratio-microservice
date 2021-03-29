@@ -1,0 +1,15 @@
+{
+    "name": "Ratio Microservice",
+    "api": "/rate-to-usd",
+    "port": 3000,
+    "database": "rates",
+    "schema": {
+		"code": "String",
+		"name": "String",
+		"rate" :"Number",
+		"bid" : "Number",
+		"ask" : "Number",
+		"stored" : "Date",
+		"lastRefreshed" : "Date" 
+    }
+}
